@@ -3,7 +3,9 @@
 
 ### Questões da Segunda Semana
 
-Q_1.    a) (F) byte x = 300;
+1°.
+
+        a) (F) byte x = 300;
         b) (V) short $mom = 43;
         c) (F) int num = 2.5;
         d) (V) double d = 20;
